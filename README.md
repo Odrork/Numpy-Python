@@ -6,7 +6,7 @@ Este repositorio contiene información básica sobre el uso de numpy y los array
 
 El repositorio se divide en tres secciones principales:
 
-1. **Introducción a numpy y instalación:**En esta sección, encontrarás información sobre los conceptos básicos de numpy, cómo importar numpy en Python
+1. **Introducción a numpy y instalación:** En esta sección, encontrarás información sobre los conceptos básicos de numpy, cómo importar numpy en Python
 
 2. **Arrays de Numpy:** En esta sección, encontrarás una introducción los conceptos básicos de los arrays de Numpy. También aprenderás cómo crear y manipular arrays de diferentes formas y tamaños, y cómo acceder a los elementos de un array. Aprenderás las diferentes formas de operar con arrays, incluyendo la suma y la multiplicación de arrays, la transposición de arrays y la indexación y selección de elementos específicos de un array.
 
