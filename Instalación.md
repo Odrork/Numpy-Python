@@ -8,6 +8,7 @@ Instalación útilizando conda.
 
 
 Instalación útilizando pip.
+
     > pip install numpy
 
 ## Importar NumPy
